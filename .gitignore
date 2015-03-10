@@ -2,8 +2,12 @@ logs
 tmp
 .history
 dist
+/*.iml
+/out
+/.idea_modules
+
 /RUNNING_PID
+
 *.log
 *.01
-
-
+/bin/
