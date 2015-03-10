@@ -4,10 +4,10 @@ tmp
 dist
 /.idea
 /*.iml
-/out
+
 /.idea_modules
 /RUNNING_PID
 *.log
 *.01
-/bin/
+/bin
 
