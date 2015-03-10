@@ -2,9 +2,6 @@ logs
 tmp
 .history
 dist
-/*.iml
-
-/.idea_modules
 /RUNNING_PID
 *.log
 *.01
