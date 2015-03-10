@@ -7,11 +7,7 @@ dist
 /out
 /.idea_modules
 /RUNNING_PID
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/master
 *.log
 *.01
 /bin/
-/bin/
+
